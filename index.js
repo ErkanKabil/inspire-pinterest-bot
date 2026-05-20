@@ -24,10 +24,10 @@ const puppeteer = require('puppeteer');
 // Sabit Değerler
 // =====================================================
 const SHARED_PRODUCTS_FILE = path.join(__dirname, 'shared_products.json');
-const PIN_LOG_FILE        = path.join(__dirname, 'pin_log.json');
-const TEMP_IMAGE_PATH     = path.join(__dirname, 'temp_image.jpg');
-const TEMP_VIDEO_PATH     = path.join(__dirname, 'temp_video.mp4');
-const ETSY_API_BASE       = 'https://api.etsy.com/v3/application';
+const PIN_LOG_FILE = path.join(__dirname, 'pin_log.json');
+const TEMP_IMAGE_PATH = path.join(__dirname, 'temp_image.jpg');
+const TEMP_VIDEO_PATH = path.join(__dirname, 'temp_video.mp4');
+const ETSY_API_BASE = 'https://api.etsy.com/v3/application';
 
 // Cookie süresi dolduğunda bu exit code ile çıkılır
 // GitHub Actions bu kodu yakalar ve özel uyarı emaili gönderir
@@ -359,13 +359,13 @@ function getBoardName(title) {
 
   // Pano adları Pinterest'ten doğrulanmıştır (01.04.2026)
   if (hasWord('birthstone')) {
-    return hasWord('bracelet') ? 'Birthstone Bracelet' : 'Bliss Birthstone Necklace';
+    return hasWord('bracelet') ? 'Birthstone Bracelet' : 'InspireBySelin Birthstone Necklace';
   }
-  if (hasWord('name'))                         return 'Bliss Jewelry Name Necklace';
-  if (hasWord('letter') || hasWord('initial')) return 'Bliss Jewelry Letter Necklace';
-  if (hasWord('bracelet'))                     return 'Bliss Jewelry Luxury Bracelet';
-  if (hasWord('ring'))                         return 'Bliss Jewelry Ring';
-  return 'Bliss Jewelry Necklace';
+  if (hasWord('name')) return 'InspireBySelin Name Necklace';
+  if (hasWord('letter') || hasWord('initial')) return 'InspireBySelin Letter Necklace';
+  if (hasWord('bracelet')) return 'InspireBySelin Luxury Bracelet';
+  if (hasWord('ring')) return 'InspireBySelin Ring';
+  return 'InspireBySelin Necklace';
 }
 
 /**
@@ -821,7 +821,7 @@ function loadPinLog() {
     if (fs.existsSync(PIN_LOG_FILE)) {
       return JSON.parse(fs.readFileSync(PIN_LOG_FILE, 'utf-8'));
     }
-  } catch (e) {}
+  } catch (e) { }
   return [];
 }
 
@@ -844,7 +844,7 @@ function appendPinLog(entry) {
   try {
     const log = loadPinLog();
     log.push({
-      timestamp:   new Date().toISOString(),
+      timestamp: new Date().toISOString(),
       ...entry,
     });
     fs.writeFileSync(PIN_LOG_FILE, JSON.stringify(log, null, 2), 'utf-8');
@@ -928,16 +928,16 @@ async function main() {
     } catch (pinError) {
       // Cookie süresi dolmuş → özel exit code ile çık (GitHub Actions yakalar)
       appendPinLog({
-        listing_id:  listing.listing_id,
-        title:       listing.title,
-        pin_number:  pinNumber,
-        media_type:  media.type,
+        listing_id: listing.listing_id,
+        title: listing.title,
+        pin_number: pinNumber,
+        media_type: media.type,
         media_label: media.pinLabel,
-        board:       selectedBoard,
-        etsy_url:    getProductUrl(listing),
-        status:      'failure',
-        pin_url:     null,
-        error:       pinError.message,
+        board: selectedBoard,
+        etsy_url: getProductUrl(listing),
+        status: 'failure',
+        pin_url: null,
+        error: pinError.message,
       });
 
       if (pinError.isCookieExpired) {
@@ -949,16 +949,16 @@ async function main() {
 
     // 6. Başarı logu
     appendPinLog({
-      listing_id:  listing.listing_id,
-      title:       listing.title,
-      pin_number:  pinNumber,
-      media_type:  media.type,
+      listing_id: listing.listing_id,
+      title: listing.title,
+      pin_number: pinNumber,
+      media_type: media.type,
       media_label: media.pinLabel,
-      board:       selectedBoard,
-      etsy_url:    getProductUrl(listing),
-      status:      'success',
-      pin_url:     pinUrl,
-      error:       null,
+      board: selectedBoard,
+      etsy_url: getProductUrl(listing),
+      status: 'success',
+      pin_url: pinUrl,
+      error: null,
     });
 
     // 7. shared_products.json güncelle
