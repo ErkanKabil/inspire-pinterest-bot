@@ -50,5 +50,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T05:20:55.280Z",
+    "listing_id": 4508611097,
+    "title": "Custom Initial Necklace, Birthstone Letter Pendant, Personalized Gemstone Jewelry, Birthday Gift, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508611097/custom-initial-necklace-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
