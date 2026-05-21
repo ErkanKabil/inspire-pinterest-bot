@@ -128,5 +128,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T22:40:57.050Z",
+    "listing_id": 4508651099,
+    "title": "Personalized Evil Eye Necklace, Embedded Nazar Charm, Protection Amulet, Minimalist Gold Letter, Gift for Her, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508651099/personalized-evil-eye-necklace-embedded",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
