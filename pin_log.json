@@ -76,5 +76,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689550728",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T16:25:38.035Z",
+    "listing_id": 4508607128,
+    "title": "Baguette Birthstone Necklace, Zigzag Gemstone Choker, Dainty Minimalist Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508607128/baguette-birthstone-necklace-zigzag",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689558807",
+    "error": null
   }
 ]
