@@ -232,5 +232,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689638452",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T20:49:48.268Z",
+    "listing_id": 4509262467,
+    "title": "Puffed Initial Necklace, Custom Birthstone Choker, Gold Finish Box Chain, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509262467/puffed-initial-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
