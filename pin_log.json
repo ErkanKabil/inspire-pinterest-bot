@@ -180,5 +180,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689596871",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T13:38:53.136Z",
+    "listing_id": 4509251562,
+    "title": "Arabic Name Necklace, Personalized Arabic Calligraphy Necklace, Custom Nameplate Pendant, Gold Islamic Jewelry, Summer Jewelry Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509251562/arabic-name-necklace-personalized-arabic",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689617940",
+    "error": null
   }
 ]
