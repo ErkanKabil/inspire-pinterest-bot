@@ -206,5 +206,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T17:20:27.544Z",
+    "listing_id": 4508660037,
+    "title": "Custom Initial Necklace, Sliding Letter Charm, Dainty Gold Pendant, Multiple Initial Choker, Personalized Gift for Her, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508660037/custom-initial-necklace-sliding-letter",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689631358",
+    "error": null
   }
 ]
