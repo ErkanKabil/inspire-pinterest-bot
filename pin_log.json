@@ -336,5 +336,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689707782",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-23T20:13:52.089Z",
+    "listing_id": 4509291070,
+    "title": "Custom Initial Necklace, Dainty Gold Pendant, Personalized Choker, Minimalist Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509291070/custom-initial-necklace-dainty-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689716002",
+    "error": null
   }
 ]
