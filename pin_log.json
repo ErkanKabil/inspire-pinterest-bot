@@ -453,5 +453,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-24T20:17:41.640Z",
+    "listing_id": 4510115059,
+    "title": "Personalized Name Necklace, Gold Filled Name Necklace, Minimalist Summer Jewelry, Custom Gold Necklace for Women",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510115059/personalized-name-necklace-gold-filled",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689790467",
+    "error": null
   }
 ]
