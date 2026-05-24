@@ -362,5 +362,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-24T00:13:36.821Z",
+    "listing_id": 4510145963,
+    "title": "Sideways Initial Necklace with Heart Pendant, Personalized Monogram Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510145963/sideways-initial-necklace-with-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
