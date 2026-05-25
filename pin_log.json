@@ -544,5 +544,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689850184",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T17:18:29.232Z",
+    "listing_id": 4510695262,
+    "title": "Personalized Gold Filled Name Necklace, Elegant Script, Minimalist Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510695262/personalized-gold-filled-name-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689854465",
+    "error": null
   }
 ]
