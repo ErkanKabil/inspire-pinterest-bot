@@ -583,5 +583,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689867219",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T22:18:14.932Z",
+    "listing_id": 4510797521,
+    "title": "Custom Birth Flower Bouquet Necklace, Spaced Floral Charm Jewelry, Personalized Family Garden Pendant, Summer Gift for Mom",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510797521/custom-birth-flower-bouquet-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
