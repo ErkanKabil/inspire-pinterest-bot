@@ -531,5 +531,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689844224",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T16:05:18.897Z",
+    "listing_id": 4509264490,
+    "title": "Balloon Initial Necklace with Heart, Puffy Letter Necklace, Custom Couples Initial Pendant, Bubble Necklace, Summer Jewelry Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509264490/balloon-initial-necklace-with-heart",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689850184",
+    "error": null
   }
 ]
