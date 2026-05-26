@@ -661,5 +661,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689928073",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-26T18:09:01.319Z",
+    "listing_id": 4510788309,
+    "title": "Multi Tag Name Necklace, Custom Engraved Vertical Bar, Personalized Kids Name Jewelry, Family Pendant, Meaningful Gift for Mom",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510788309/multi-tag-name-necklace-custom-engraved",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
