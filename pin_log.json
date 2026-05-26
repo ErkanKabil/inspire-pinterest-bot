@@ -635,5 +635,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-26T14:11:54.680Z",
+    "listing_id": 4510793204,
+    "title": "Vintage Ruby Drop Earrings, Emerald Cut Red Stone Huggies, Gold Antique Jewelry, Gift for Wife, Summer Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510793204/vintage-ruby-drop-earrings-emerald-cut",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689917647",
+    "error": null
   }
 ]
