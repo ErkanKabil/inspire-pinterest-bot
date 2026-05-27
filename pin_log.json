@@ -726,5 +726,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689950921",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-27T04:52:56.325Z",
+    "listing_id": 4510762763,
+    "title": "Personalized Baby Feet Necklace, Custom Baby Name Necklace, Birth Date Jewelry, Gold Filled New Mom Gift, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510762763/personalized-baby-feet-necklace-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689962132",
+    "error": null
   }
 ]
