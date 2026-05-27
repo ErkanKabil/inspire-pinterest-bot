@@ -739,5 +739,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689962132",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-27T05:43:21.762Z",
+    "listing_id": 4510803580,
+    "title": "Dainty Birhstone Ring, Dual Teardrop Gemstone Ring, Personalized Crystal Jewelry, Romantic Summer Anniversary Gift Wife",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Ring",
+    "etsy_url": "https://www.etsy.com/listing/4510803580/dainty-birhstone-ring-dual-teardrop",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126689964079",
+    "error": null
   }
 ]
