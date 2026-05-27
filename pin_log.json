@@ -778,5 +778,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126689995977",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-27T18:09:51.390Z",
+    "listing_id": 4512221165,
+    "title": "Two Initial Necklace, Custom Interlocking Monogram, Dainty Gold Letter Pendant, Personalized Couple Initials, Everyday Minimalist Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4512221165/two-initial-necklace-custom-interlocking",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
