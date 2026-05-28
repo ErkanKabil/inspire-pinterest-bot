@@ -895,5 +895,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690066124",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T18:21:41.432Z",
+    "listing_id": 4508663517,
+    "title": "Custom Sparkly Initial Necklace, Gemstone Letter, Dainty Gold Monogram Choker, Personalized Bling Jewelry, Birthday Gift, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508663517/custom-sparkly-initial-necklace-gemstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690070873",
+    "error": null
   }
 ]
