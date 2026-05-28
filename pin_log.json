@@ -882,5 +882,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690057519",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T17:05:04.105Z",
+    "listing_id": 4511232526,
+    "title": "Pink Star Earrings, Gold Hoop Earrings, Minimalist Summer Jewelry, Dainty Everyday Earrings for Women",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4511232526/pink-star-earrings-gold-hoop-earrings",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690066124",
+    "error": null
   }
 ]
