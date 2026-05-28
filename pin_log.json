@@ -934,5 +934,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690080736",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T22:46:40.979Z",
+    "listing_id": 4512678337,
+    "title": "Balloon Initial Necklace, Bubble Letter Necklace, Letter Pendant, Personalized Initial Jewelry Gift for Her, Dainty Necklace, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4512678337/balloon-initial-necklace-bubble-letter",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690084992",
+    "error": null
   }
 ]
