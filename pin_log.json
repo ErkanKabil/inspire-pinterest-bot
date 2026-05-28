@@ -843,5 +843,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T04:44:39.524Z",
+    "listing_id": 4512261972,
+    "title": "Custom Birthstone Initial Necklace, Gold Filled Letter Necklace, Box Chain Pendant, Minimalist Summer Jewelry, Personalized Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4512261972/custom-birthstone-initial-necklace-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690030033",
+    "error": null
   }
 ]
