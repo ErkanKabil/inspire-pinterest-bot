@@ -1077,5 +1077,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-30T04:21:02.199Z",
+    "listing_id": 4513347448,
+    "title": "Personalized Birth Flower Necklace, Custom Floral Name Necklace, Dainty Gold Flower Necklace, Mom Gift, Birth Month Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4513347448/personalized-birth-flower-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690172730",
+    "error": null
   }
 ]
