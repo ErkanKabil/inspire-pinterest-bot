@@ -1090,5 +1090,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690172730",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-30T05:01:52.889Z",
+    "listing_id": 4510132464,
+    "title": "Custom Engraved Heart Necklace, Name and Date Jewelry, Minimalist Summer Necklace, Personalized Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510132464/custom-engraved-heart-necklace-name-and",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690174600",
+    "error": null
   }
 ]
