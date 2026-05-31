@@ -1246,5 +1246,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690272096",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-31T16:38:22.296Z",
+    "listing_id": 4508630462,
+    "title": "Bubble Initial Necklace, Box Chain Birthstone Jewelry, Custom Gemstone Choker, Minimalist Everyday Necklace, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508630462/bubble-initial-necklace-box-chain",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
