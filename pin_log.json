@@ -1220,5 +1220,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-31T12:20:45.589Z",
+    "listing_id": 4509355503,
+    "title": "Dainty Script Name Necklace, Personalized Jewelry, Elegant Bridesmaid Present, Summer Jewelry Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509355503/dainty-script-name-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690262868",
+    "error": null
   }
 ]
