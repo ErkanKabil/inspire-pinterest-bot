@@ -1402,5 +1402,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690366835",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-01T23:09:32.372Z",
+    "listing_id": 4508594486,
+    "title": "Dainty Birthstone Necklace, Snake Chain Gemstone Pendant, Birthstone Jewelry, Minimalist Choker, Personalized Gift for Women, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508594486/dainty-birthstone-necklace-snake-chain",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690369167",
+    "error": null
   }
 ]
