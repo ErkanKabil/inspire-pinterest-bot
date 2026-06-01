@@ -1363,5 +1363,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690356149",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-01T20:00:25.489Z",
+    "listing_id": 4514772816,
+    "title": "Cross Birthstone Necklace, Gold Filled Cross Necklace, Birthstone Pendant Necklace, Minimalist Christian Jewelry, Summer Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4514772816/cross-birthstone-necklace-gold-filled",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690359090",
+    "error": null
   }
 ]
