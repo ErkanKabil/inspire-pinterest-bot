@@ -1454,5 +1454,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690386680",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-02T15:09:17.341Z",
+    "listing_id": 4508586597,
+    "title": "Personalized Name Necklace with Birthstones, Custom Gold Name Necklace, Summer Jewelry, Minimalist Family Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508586597/personalized-name-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
