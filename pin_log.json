@@ -1480,5 +1480,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690421098",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-02T18:56:52.754Z",
+    "listing_id": 4515226175,
+    "title": "Personalized Name Necklace with Box Chain, Custom Old English Letter Pendant, Gold Plated Everyday Jewelry, Unique Birthday Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4515226175/personalized-name-necklace-with-box",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
