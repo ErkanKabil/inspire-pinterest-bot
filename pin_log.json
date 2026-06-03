@@ -1545,5 +1545,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-03T05:21:38.719Z",
+    "listing_id": 4515155387,
+    "title": "Personalized Birthstone Necklace with Heart, Custom Family Gemstone Pendant, Everyday Jewelry, Birthday Gift for Her, Dainty, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4515155387/personalized-birthstone-necklace-with",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690454933",
+    "error": null
   }
 ]
