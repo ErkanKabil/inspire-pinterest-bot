@@ -1610,5 +1610,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-03T20:29:13.144Z",
+    "listing_id": 4508542387,
+    "title": "Custom Two Birthstone Necklace, Personalized Heart Pendant, Couple Gift for Her, Mom Necklace, Gold Birthstone Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508542387/custom-two-birthstone-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
