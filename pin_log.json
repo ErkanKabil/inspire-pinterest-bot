@@ -1558,5 +1558,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690454933",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-03T06:18:09.626Z",
+    "listing_id": 4508577621,
+    "title": "Custom Birthstone Necklace for Women, Minimal Gold Necklace, Colorful Summer Jewelry, Personalized Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508577621/custom-birthstone-necklace-for-women",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
