@@ -1662,5 +1662,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690515942",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-04T05:12:56.877Z",
+    "listing_id": 4514790396,
+    "title": "Alphabet Jewelry, Gold Filigree Initial, Elegant Personalized Gift, Trendy Summer Aesthetic, Dainty Birthday Gift for Wife",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4514790396/alphabet-jewelry-gold-filigree-initial",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690526363",
+    "error": null
   }
 ]
