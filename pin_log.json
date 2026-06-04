@@ -1740,5 +1740,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-04T21:05:34.442Z",
+    "listing_id": 4507797035,
+    "title": "Custom Two Birthstone Necklace, Toi et Moi Gemstone Jewelry, Personalized Couple Necklace, Dainty Mother of Two Gift, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507797035/custom-two-birthstone-necklace-toi-et",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690579451",
+    "error": null
   }
 ]
