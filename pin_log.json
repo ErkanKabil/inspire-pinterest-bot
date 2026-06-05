@@ -1766,5 +1766,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-05T00:22:10.121Z",
+    "listing_id": 4515929786,
+    "title": "Lucky Pepper Necklace, Good Luck Charm Necklace, Dainty Gold Pepper Pendant, Everyday Lucky Necklace, Summer Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4515929786/lucky-pepper-necklace-good-luck-charm",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
