@@ -1870,5 +1870,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690897123",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-09T21:14:22.455Z",
+    "listing_id": 4518665848,
+    "title": "Personalized Vintage Medallion Necklace, Custom Initial Enamel Pendant, Gold Plated Summer Aesthetic Jewelry, Retro Monogram Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4518665848/personalized-vintage-medallion-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126690944006",
+    "error": null
   }
 ]
