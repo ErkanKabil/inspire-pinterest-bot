@@ -1831,5 +1831,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126690811060",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-09T00:17:17.407Z",
+    "listing_id": 4518663323,
+    "title": "Father&#39;s Day Gift, Personalized Men&#39;s Curb Chain Bracelet, Custom Engraved Nameplate Jewelry for Dad, Masculine Statement Birthday Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4518663323/fathers-day-gift-personalized-mens-curb",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
