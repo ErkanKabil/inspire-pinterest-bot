@@ -1935,5 +1935,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-11T01:40:29.007Z",
+    "listing_id": 4519792284,
+    "title": "Custom 2 Birthstone Necklace, Dainty Pear Gemstone Pendant, Personalized Toi et Moi Jewelry, New Mom Gift, Couples Anniversary",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4519792284/custom-2-birthstone-necklace-dainty-pear",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691035426",
+    "error": null
   }
 ]
