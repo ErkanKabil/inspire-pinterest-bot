@@ -1987,5 +1987,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126691102008",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-12T21:07:52.259Z",
+    "listing_id": 4519792800,
+    "title": "Two Birthstone Necklace, Personalized Gift for Mom, Dainty 14k Gold Duo Charm Pendant, Custom Couple Jewelry, Delicate Anniversary Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4519792800/two-birthstone-necklace-personalized",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
