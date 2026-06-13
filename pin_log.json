@@ -2026,5 +2026,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126691179816",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-13T20:42:26.858Z",
+    "listing_id": 4521435434,
+    "title": "Custom Pear Gemstone Necklace, Dainty Toi et Moi Birthstone Pendant, Personalized Anniversary Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4521435434/custom-pear-gemstone-necklace-dainty-toi",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
