@@ -2195,5 +2195,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-16T20:20:44.569Z",
+    "listing_id": 4522426407,
+    "title": "Gold Fish Necklace, Dainty Marine Pendant, Delicate Cable Chain Charm, Ruby Eye Animal Jewelry, Under 10mm Minimalist Choker, Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522426407/gold-fish-necklace-dainty-marine-pendant",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
