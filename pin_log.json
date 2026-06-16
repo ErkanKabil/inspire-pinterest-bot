@@ -2169,5 +2169,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-16T05:37:47.654Z",
+    "listing_id": 4522240375,
+    "title": "Personalized Marquise Birthstone Necklace, Custom Gemstone Pendant, Elegant Anniversary Gift for Her, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522240375/personalized-marquise-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691408591",
+    "error": null
   }
 ]
