@@ -2286,5 +2286,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-18T23:04:21.284Z",
+    "listing_id": 4522482620,
+    "title": "Dainty Pearl Necklace, Minimalist Gold Necklace, Pearl Layering Necklace, Quiet Luxury Jewelry, Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522482620/dainty-pearl-necklace-minimalist-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691619112",
+    "error": null
   }
 ]
