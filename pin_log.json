@@ -2247,5 +2247,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126691551580",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-18T05:06:12.682Z",
+    "listing_id": 4522427425,
+    "title": "Gold Starfish Necklace, Dainty Ocean Jewelry, Beach Theme Gift for Her, Minimalist Marine Pendant, Coastal Bridesmaid Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522427425/gold-starfish-necklace-dainty-ocean",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691559839",
+    "error": null
   }
 ]
