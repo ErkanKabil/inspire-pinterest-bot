@@ -2312,5 +2312,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126691675833",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-19T20:48:19.374Z",
+    "listing_id": 4522402657,
+    "title": "Puff Balloon Initial Necklace with Birthstone, Bubble Letter Pendant, Custom Box Chain Gold Jewelry, Personalized for Her, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522402657/puff-balloon-initial-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
