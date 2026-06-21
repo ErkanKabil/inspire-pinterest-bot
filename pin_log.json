@@ -2364,5 +2364,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-21T16:56:38.447Z",
+    "listing_id": 4523700495,
+    "title": "Custom Birthstone Cross Necklace, Christian Gift for Women, Personalized Faith Jewelry, Baptism Gift, Confirmation Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4523700495/custom-birthstone-cross-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691811747",
+    "error": null
   }
 ]
