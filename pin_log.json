@@ -2403,5 +2403,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-22T01:42:44.473Z",
+    "listing_id": 4524677133,
+    "title": "Dainty Sun Enamel Medallion Necklace, Gold Plated Summer Solstice Charm, Elegant Celestial Pendant for Her, Coastal Beach Luxury Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4524677133/dainty-sun-enamel-medallion-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691841150",
+    "error": null
   }
 ]
