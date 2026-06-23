@@ -2442,5 +2442,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126691911386",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-23T04:33:18.257Z",
+    "listing_id": 4523010089,
+    "title": "Custom Initial Necklace, Personalized Slide Letter Charm, Dainty Family Monogram Pendant, Minimalist Everyday Jewelry Gift, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4523010089/custom-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126691924469",
+    "error": null
   }
 ]
