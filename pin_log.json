@@ -2507,5 +2507,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692047267",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-24T20:57:49.295Z",
+    "listing_id": 4526672833,
+    "title": "Personalized Dainty Tag Necklace with Box Chain, Custom Engraved Initial Pendant, Gold Plated Minimalist Summer Jewelry, Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4526672833/personalized-dainty-tag-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
