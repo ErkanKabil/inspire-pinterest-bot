@@ -2481,5 +2481,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-24T04:40:29.306Z",
+    "listing_id": 4523698509,
+    "title": "Custom Cat Name Necklace, Cat Mom Gift, Personalized Pet Necklace, Fur Baby Jewelry, Cat Lover Gift, Custom Name Pendant",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4523698509/custom-cat-name-necklace-cat-mom-gift",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126692000871",
+    "error": null
   }
 ]
