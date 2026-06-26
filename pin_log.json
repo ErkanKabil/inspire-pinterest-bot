@@ -2533,5 +2533,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692059983",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-26T19:05:04.250Z",
+    "listing_id": 4522404197,
+    "title": "Personalized Birthday Gift for Her, Birthstone Name Necklace, Initial Box Chain Pendant, Meaningful Anniversary Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4522404197/personalized-birthday-gift-for-her",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126692197720",
+    "error": null
   }
 ]
