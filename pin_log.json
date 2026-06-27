@@ -2650,5 +2650,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692265782",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-27T18:19:57.567Z",
+    "listing_id": 4528562667,
+    "title": "Diamond Tennis Necklace for Women, Sterling Silver Everyday Sparkle Chain, Minimalist Elegant Jewelry, Gift for Her Anniversary",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4528562667/diamond-tennis-necklace-for-women",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126692273626",
+    "error": null
   }
 ]
