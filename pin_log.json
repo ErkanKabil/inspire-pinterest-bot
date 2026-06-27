@@ -2624,5 +2624,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-27T14:57:41.765Z",
+    "listing_id": 4528584676,
+    "title": "Silver Tennis Necklace, Brilliant Round Cut Cubic Zirconia Choker, Classic Diamond Simulant Layering Chain, Bridal Wedding Jewelry Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4528584676/silver-tennis-necklace-brilliant-round",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
