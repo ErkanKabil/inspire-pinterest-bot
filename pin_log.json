@@ -2780,5 +2780,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-30T00:20:39.574Z",
+    "listing_id": 4528059036,
+    "title": "Custom Cursive Name Necklace, Dainty Gold Nameplate Pendant, Minimalist Everyday Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4528059036/custom-cursive-name-necklace-dainty-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
