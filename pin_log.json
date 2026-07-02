@@ -2897,5 +2897,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-02T22:18:46.712Z",
+    "listing_id": 4531162984,
+    "title": "CZ Crawler Earrings, Art Deco Gold Climber, Elegant Bridal Jewelry, Marquise Square Cut Diamond Studs, Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531162984/cz-crawler-earrings-art-deco-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
