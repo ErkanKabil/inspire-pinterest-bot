@@ -2975,5 +2975,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692813419",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-04T22:10:32.969Z",
+    "listing_id": 4532208758,
+    "title": "Baroque Pearl Cluster Studs, Gold Statement Earrings, Elegant Bridal Jewelry, Unique Gift for Her, Vintage Inspired Geometric Pearl Earrings",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4532208758/baroque-pearl-cluster-studs-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
