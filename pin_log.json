@@ -2949,5 +2949,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-04T00:18:12.816Z",
+    "listing_id": 4531151203,
+    "title": "Gold Hoop Earrings, Tear Drop Zircon Dangle, Minimalist Bridal Jewelry, Elegant Everyday Drop Earrings, Birthday Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531151203/gold-hoop-earrings-tear-drop-zircon",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126692750846",
+    "error": null
   }
 ]
