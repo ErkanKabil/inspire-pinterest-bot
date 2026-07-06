@@ -3001,5 +3001,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692826464",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-06T00:17:34.347Z",
+    "listing_id": 4532197151,
+    "title": "Gold Drop Earrings, Pear and Square Crystal Dangles, Elegant Bridal Jewelry, Art Deco Geometric Earrings, Luxury Anniversary Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4532197151/gold-drop-earrings-pear-and-square",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
