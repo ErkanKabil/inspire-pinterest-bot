@@ -3040,5 +3040,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126692920125",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-06T21:02:57.192Z",
+    "listing_id": 4532212726,
+    "title": "Gold Pineapple Earrings, Crystal Fruit Drop Earrings, Emerald Green Tropical Jewelry, Statement Gift for Her, Beach Resort Wear",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4532212726/gold-pineapple-earrings-crystal-fruit",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
