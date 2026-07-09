@@ -3209,5 +3209,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693205591",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-09T22:43:33.052Z",
+    "listing_id": 4533970632,
+    "title": "Triple Row Tennis Necklace, Multi Layer Cubic Zirconia Eternity Choker, Rhodium Gold Plated Bridal Chain Jewelry, Luxury Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4533970632/triple-row-tennis-necklace-multi-layer",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
