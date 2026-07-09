@@ -3157,5 +3157,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693138757",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-09T04:17:07.907Z",
+    "listing_id": 4534727700,
+    "title": "Pearl Drop Earrings, Crystal Cluster Bridal Earrings, Dainty Marquise Pear Studs, Elegant Wedding Jewelry Gift for Her, Statement Teardrop",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4534727700/pearl-drop-earrings-crystal-cluster",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
