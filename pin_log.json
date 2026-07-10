@@ -3235,5 +3235,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693217744",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-10T04:18:43.351Z",
+    "listing_id": 4531148677,
+    "title": "Pineapple Earrings, Gold Fruit Jewelry, Tropical Statement Studs, Crystal Quartz Dangle, Unique Gift for Her, Cute Summer Accessories",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531148677/pineapple-earrings-gold-fruit-jewelry",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
