@@ -3274,5 +3274,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693255102",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-10T22:15:35.825Z",
+    "listing_id": 4532207900,
+    "title": "Gold Halo Hoop Earrings with Round Dangle Charm, Dainty Crystal Statement Drop Jewelry, Sparkling Gift for Her, Premium Handmade Hoops",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4532207900/gold-halo-hoop-earrings-with-round",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
