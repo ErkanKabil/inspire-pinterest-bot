@@ -3313,5 +3313,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693308389",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-11T22:05:36.488Z",
+    "listing_id": 4533958113,
+    "title": "Old Money Square Mount Tennis Necklace, 3 Row Round Cut Zirconia Statement Choker, Rhodium Gold Plated Eternity Collar, Premium Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4533958113/old-money-square-mount-tennis-necklace-3",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
