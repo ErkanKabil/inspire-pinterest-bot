@@ -3365,5 +3365,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693438143",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-12T22:05:58.061Z",
+    "listing_id": 4536542943,
+    "title": "Ethereal Silver Bracelet, Cubic Zirconia Flower Cluster Wristband, Dainty Marquise Crystal Statement Jewelry, Elegant Gift, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4536542943/ethereal-silver-bracelet-cubic-zirconia",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
