@@ -3456,5 +3456,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-13T22:07:48.209Z",
+    "listing_id": 4534725218,
+    "title": "Diamond Hoop Earrings, Sparkly Inside Out Crystal Hoops, Luxurious Elegant Jewelry, Gift for Her, Delicate Pave Round Earring Huggies",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4534725218/diamond-hoop-earrings-sparkly-inside-out",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126693521883",
+    "error": null
   }
 ]
