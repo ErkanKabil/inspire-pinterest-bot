@@ -3469,5 +3469,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693521883",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-16T00:10:48.580Z",
+    "listing_id": 4531160204,
+    "title": "Evil Eye Drop Earrings, Dainty Sapphire Teardrop Huggies, Protection Jewelry, Birthday Gift for Her, Delicate Greek Eye Hoops",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531160204/evil-eye-drop-earrings-dainty-sapphire",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
