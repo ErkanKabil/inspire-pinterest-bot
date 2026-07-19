@@ -3599,5 +3599,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693898075",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-19T03:59:32.108Z",
+    "listing_id": 4531543109,
+    "title": "Custom Angel Number Necklace with Birthstone, Personalized Spiritual Jewelry, Gold Plated Manifest Pendant, Protection Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531543109/custom-angel-number-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
