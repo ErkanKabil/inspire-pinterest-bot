@@ -3651,5 +3651,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126693984508",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-20T04:50:40.070Z",
+    "listing_id": 4540575513,
+    "title": "Rainbow Baguette Tennis Bracelet, Cubic Zirconia Ombre Wristband, Gold Silver Plated Stack",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4540575513/rainbow-baguette-tennis-bracelet-cubic",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126693986248",
+    "error": null
   }
 ]
