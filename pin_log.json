@@ -3729,5 +3729,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-21T03:50:11.262Z",
+    "listing_id": 4541080656,
+    "title": "Baroque Pearl Cluster Studs, Gold Plated Brass, Vintage Geometric Earrings",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4541080656/baroque-pearl-cluster-studs-gold-plated",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126694058286",
+    "error": null
   }
 ]
