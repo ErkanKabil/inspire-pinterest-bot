@@ -3989,5 +3989,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126694586310",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-28T00:12:27.291Z",
+    "listing_id": 4545188482,
+    "title": "Classic Silver Tennis Choker, Minimalist CZ Diamond Simulant Chain, Layering Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4545188482/classic-silver-tennis-choker-minimalist",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
