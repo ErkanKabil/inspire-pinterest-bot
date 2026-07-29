@@ -4028,5 +4028,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-29T03:44:46.368Z",
+    "listing_id": 4545868208,
+    "title": "Gold Old English Alphabet Initial Necklace, Elegant Personalized Pendant, Dainty Birthday Gift, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4545868208/gold-old-english-alphabet-initial",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126694685319",
+    "error": null
   }
 ]
