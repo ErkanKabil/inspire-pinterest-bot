@@ -4197,5 +4197,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-02T03:57:55.084Z",
+    "listing_id": 4548247778,
+    "title": "Vintage Emerald Cut Ruby Drop Earrings, Gold Antique Huggies, Brass Gemstone Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4548247778/vintage-emerald-cut-ruby-drop-earrings",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126695002555",
+    "error": null
   }
 ]
