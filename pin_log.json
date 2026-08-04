@@ -4275,5 +4275,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-04T00:17:12.813Z",
+    "listing_id": 4549230631,
+    "title": "Rainbow Baguette Tennis Bracelet, Colorful Cubic Zirconia Ombre Wristband, Gold Silver Plated Pride Luxury Stack, Summer Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4549230631/rainbow-baguette-tennis-bracelet",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126695147303",
+    "error": null
   }
 ]
