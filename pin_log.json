@@ -4483,5 +4483,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126695641447",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-10T23:51:57.259Z",
+    "listing_id": 4553502739,
+    "title": "Baguette Cut Tennis Necklace, Cubic Zirconia Tennis Choker, Non Flip Rhodium Gold Plated Eternity Chain, Luxurious Bridal Statement Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4553502739/baguette-cut-tennis-necklace-cubic",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
