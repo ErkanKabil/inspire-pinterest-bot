@@ -4808,5 +4808,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-21T02:01:05.226Z",
+    "listing_id": 4559672394,
+    "title": "Baguette Cut Tennis Necklace, Rhodium Gold Plated Eternity Chain, Cubic Zirconia Choker",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4559672394/baguette-cut-tennis-necklace-rhodium",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126696538221/",
+    "error": null
   }
 ]
