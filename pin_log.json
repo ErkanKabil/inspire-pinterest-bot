@@ -4886,5 +4886,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-24T02:00:51.181Z",
+    "listing_id": 4561394432,
+    "title": "Puffy Initial Necklace, 3D Balloon Letter Pendant, Custom Gold Bubble Charm, Summer Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4561394432/puffy-initial-necklace-3d-balloon-letter",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
