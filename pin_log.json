@@ -4925,5 +4925,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-25T01:55:53.945Z",
+    "listing_id": 4561990093,
+    "title": "Dainty Sideways Cross Necklace, Minimalist Gold Pendant, Faith Jewelry Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4561990093/dainty-sideways-cross-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126696866623/",
+    "error": null
   }
 ]
