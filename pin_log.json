@@ -4977,5 +4977,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-27T09:55:58.989Z",
+    "listing_id": 4563365296,
+    "title": "Diamond Tennis Choker Necklace, Delicate Diamond Necklace in Silver, Bridesmaid Jewelry, Maid of Honor Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563365296/diamond-tennis-choker-necklace-delicate",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126697057030/",
+    "error": null
   }
 ]
