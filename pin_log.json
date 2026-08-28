@@ -5029,5 +5029,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126697110604/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-28T01:31:16.108Z",
+    "listing_id": 4563702493,
+    "title": "Jolene Nameplate Necklace, Iconic Country Song Jewelry, Western Chic Accessory, Dolly Parton Tribute Gift, Cursive Letter Box Chain",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563702493/jolene-nameplate-necklace-iconic-country",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
