@@ -5081,5 +5081,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-28T11:30:02.849Z",
+    "listing_id": 4563639323,
+    "title": "Dolly Parton Inspired Initial Necklace with Heart, Gold Letter Pendant, Country Music Fan Gift, Dolly Parton Memorial Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563639323/dolly-parton-inspired-initial-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
