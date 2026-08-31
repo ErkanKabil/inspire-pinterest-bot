@@ -5250,5 +5250,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-31T21:55:38.290Z",
+    "listing_id": 4563753498,
+    "title": "Diamond Tennis Bracelet, 925 Sterling Silver Bracelet, Bridal Wedding Jewelry, Dainty Sparkle Bracelet, Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4563753498/diamond-tennis-bracelet-925-sterling",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126697432876/",
+    "error": null
   }
 ]
