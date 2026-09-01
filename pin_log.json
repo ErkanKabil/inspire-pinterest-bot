@@ -5328,5 +5328,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126697458557/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-01T15:29:09.077Z",
+    "listing_id": 4566293336,
+    "title": "Gold Ghost Bracelet, Cute Halloween Jewelry, Dainty Spooky Charm Bracelet, Minimalist Fall Jewelry, Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4566293336/gold-ghost-bracelet-cute-halloween",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126697488165/",
+    "error": null
   }
 ]
