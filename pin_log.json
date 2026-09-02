@@ -5406,5 +5406,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126697574087/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-02T18:44:29.955Z",
+    "listing_id": 4567279728,
+    "title": "925 Sterling Silver Bracelet, Diamond Tennis Bracelet, Chunky CZ Tennis Bracelet, Bridal Wedding Jewelry, Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4567279728/925-sterling-silver-bracelet-diamond",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126697579546/",
+    "error": null
   }
 ]
