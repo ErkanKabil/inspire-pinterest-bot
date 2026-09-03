@@ -5458,5 +5458,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126697596889/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-03T01:08:24.426Z",
+    "listing_id": 4566868386,
+    "title": "Diamond Tennis Necklace, Halo CZ Choker Necklace, Bridal Wedding Jewelry, Sparkly Statement Necklace, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4566868386/diamond-tennis-necklace-halo-cz-choker",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
