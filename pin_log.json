@@ -5575,5 +5575,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126697674645/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-04T23:03:12.473Z",
+    "listing_id": 4567525309,
+    "title": "Gold Letter Necklace, Crystal Rhinestone Initial Pendant, Sparkly Monogram Necklace, Custom LetterJewelry, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4567525309/gold-letter-necklace-crystal-rhinestone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
