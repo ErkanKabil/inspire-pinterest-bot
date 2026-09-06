@@ -5640,5 +5640,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-06T04:45:59.413Z",
+    "listing_id": 4569748851,
+    "title": "Dainty Cross Necklace, 14K Gold Filled Minimalist Tiny Cross Pendant, Everyday Layering Jewelry, Subtle Religious Necklace for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4569748851/dainty-cross-necklace-14k-gold-filled",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126697858493/",
+    "error": null
   }
 ]
