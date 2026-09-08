@@ -5731,5 +5731,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126698002967/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-08T23:22:56.826Z",
+    "listing_id": 4571572369,
+    "title": "Dolly Parton Tribute Butterfly Necklace, Gold Initial Jewelry, Personalized Letter Pendant, Memorial Gift, Country Music Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4571572369/dolly-parton-tribute-butterfly-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
