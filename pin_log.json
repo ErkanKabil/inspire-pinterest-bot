@@ -5770,5 +5770,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-09T19:47:06.018Z",
+    "listing_id": 4572178700,
+    "title": "Personalized Pave Initial Necklace, Custom Sparkly Letter Charm Pendant, Dainty Monogram Jewelry, Romantic Milestone Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4572178700/personalized-pave-initial-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126698149203/",
+    "error": null
   }
 ]
