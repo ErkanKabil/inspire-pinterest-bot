@@ -5848,5 +5848,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126698237985/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-11T18:35:00.545Z",
+    "listing_id": 4573475966,
+    "title": "Marquise Tennis Bracelet, Gold Zirconia Bracelet, Gift for Her, Birthday Anniversary Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4573475966/marquise-tennis-bracelet-gold-zirconia",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
