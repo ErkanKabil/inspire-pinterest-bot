@@ -6147,5 +6147,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-18T23:17:20.063Z",
+    "listing_id": 4578033870,
+    "title": "Gold Marquise Tennis Bracelet, Zirconia Jewelry, Quiet Luxury Bracelet, Elegant Everyday Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4578033870/gold-marquise-tennis-bracelet-zirconia",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126698884921/",
+    "error": null
   }
 ]
