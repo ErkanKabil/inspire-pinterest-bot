@@ -6316,5 +6316,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126699215970/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-24T19:11:40.390Z",
+    "listing_id": 4581977812,
+    "title": "Dainty Drop Earrings, Marquise Crystal Dangle, Elegant Bridal Jewelry Gift for Her, Aesthetic Statement Earrings, Art Deco Chandelier",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4581977812/dainty-drop-earrings-marquise-crystal",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
