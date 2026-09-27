@@ -6433,5 +6433,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126699546085/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-27T19:00:57.751Z",
+    "listing_id": 4583586217,
+    "title": "Classic Silver Tennis Necklace, Dainty Cubic Zirconia Eternity Choker, Elegant Bridal Collar Chain, Timeless Luxury Jewelry Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4583586217/classic-silver-tennis-necklace-dainty",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
