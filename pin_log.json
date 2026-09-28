@@ -6472,5 +6472,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126699642153/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-28T22:34:24.404Z",
+    "listing_id": 4583775005,
+    "title": "Tennis Chain Choker, Layering Diamond Necklace, Clean Girl Aesthetic Collar, Minimalist Sparkle Jewelry, Trendy Stackable Silver Choker",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4583775005/tennis-chain-choker-layering-diamond",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
