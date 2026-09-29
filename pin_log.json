@@ -6511,5 +6511,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126699731305/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-29T18:40:44.985Z",
+    "listing_id": 4583774533,
+    "title": "Diamond Tennis Necklace, Anniversary Gift for Her, Dainty Bridal Choker, Sparkling CZ Crystal Collar, Elegant Wedding Jewelry for Bride",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4583774533/diamond-tennis-necklace-anniversary-gift",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
