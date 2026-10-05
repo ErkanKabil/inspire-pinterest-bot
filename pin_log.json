@@ -6758,5 +6758,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-10-05T23:11:22.771Z",
+    "listing_id": 4589282926,
+    "title": "Single Pearl Necklace, Dainty Floating Pearl Choker, Minimalist Gold Chain, Classic Pearl Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4589282926/single-pearl-necklace-dainty-floating",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
