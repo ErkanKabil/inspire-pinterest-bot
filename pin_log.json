@@ -6797,5 +6797,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-10-07T20:39:30.353Z",
+    "listing_id": 4590628559,
+    "title": "Custom Two Birthstone Necklace, Toi et Moi Gemstone Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4590628559/custom-two-birthstone-necklace-toi-et",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
