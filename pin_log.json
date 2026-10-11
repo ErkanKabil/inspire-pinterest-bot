@@ -6901,5 +6901,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-10-11T00:14:41.723Z",
+    "listing_id": 4592803351,
+    "title": "Silver Baguette Tennis Necklace, Rhodium CZ Choker Necklace, Bridal Wedding Jewelry, Art Deco Statement Chain, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4592803351/silver-baguette-tennis-necklace-rhodium",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
