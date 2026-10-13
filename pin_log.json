@@ -7018,5 +7018,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126700887671/",
     "error": null
+  },
+  {
+    "timestamp": "2026-10-13T23:18:09.655Z",
+    "listing_id": 4594796619,
+    "title": "Freshwater Pearl Baroque Pendant Necklace, Gold Beaded Choker, Modern Bridal Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4594796619/freshwater-pearl-baroque-pendant",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
