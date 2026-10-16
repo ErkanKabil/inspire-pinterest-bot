@@ -7135,5 +7135,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126701134218/",
     "error": null
+  },
+  {
+    "timestamp": "2026-10-16T23:33:52.511Z",
+    "listing_id": 4595877349,
+    "title": "Gold Pearl Pendant Necklace, Bezel Set Pearl Choker, Dainty Mother of Pearl Charm, Bridal Wedding Jewelry, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4595877349/gold-pearl-pendant-necklace-bezel-set",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
