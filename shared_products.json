@@ -928,5 +928,10 @@
     "listing_id": 4598271323,
     "pins_shared": 3,
     "completed": true
+  },
+  {
+    "listing_id": 4598881501,
+    "pins_shared": 1,
+    "completed": false
   }
 ]
