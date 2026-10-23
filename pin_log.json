@@ -7369,5 +7369,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126701651828/",
     "error": null
+  },
+  {
+    "timestamp": "2026-10-23T19:14:40.391Z",
+    "listing_id": 4600377536,
+    "title": "Baroque Pearl Choker, Gold Nugget Pearl Necklace, Sculptural Pearl Collar, Modern Bridal Jewelry, Chic Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4600377536/baroque-pearl-choker-gold-nugget-pearl",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
