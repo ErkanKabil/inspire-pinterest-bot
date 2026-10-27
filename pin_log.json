@@ -7525,5 +7525,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126702142990/",
     "error": null
+  },
+  {
+    "timestamp": "2026-10-27T20:06:59.992Z",
+    "listing_id": 4604363135,
+    "title": "Custom Vertical Name Necklace, Dolly Parton Tribute, Drop Letter Y Lariat, Country Music Fan Gift, Dangle Nameplate, Western Chic Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "InspireBySelin Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4604363135/custom-vertical-name-necklace-dolly",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
