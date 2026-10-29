@@ -7577,5 +7577,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1112952126702377816/",
     "error": null
+  },
+  {
+    "timestamp": "2026-10-29T18:59:44.938Z",
+    "listing_id": 4605517350,
+    "title": "Triple Row Tennis Necklace, Triple Layer CZ Diamond Choker, Bridal Wedding Jewelry, Rhodium Statement Chain, Luxury Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4605517350/triple-row-tennis-necklace-triple-layer",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
