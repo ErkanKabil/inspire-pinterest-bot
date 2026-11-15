@@ -8175,5 +8175,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-11-15T23:24:28.598Z",
+    "listing_id": 4618009955,
+    "title": "Enamel Christmas Necklace, Gold Santa Pendant, Dainty Winter Jewelry, Holiday Party Choker, Cute Secret Santa Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "InspireBySelin Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4618009955/enamel-christmas-necklace-gold-santa",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1112952126703802348/",
+    "error": null
   }
 ]
